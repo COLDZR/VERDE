@@ -53,7 +53,7 @@ nav ul li {
 }
 
 .quem-somos-card {
-    background: url('/assets/C.png') no-repeat center center/cover; /* Imagem de fundo */
+    background: url('assets/C.png') no-repeat center center/cover; /* Imagem de fundo */
     border-radius: 8px;
     padding: 30px;
     color: #fff;
@@ -227,7 +227,7 @@ nav ul li {
     display: flex;
     justify-content: center; /* Centraliza o card na tela */
     padding: 40px 20px;
-    background-image: url("/assets/newsletter.png");
+    background-image: url("assets/newsletter.png");
 }
 
 .newsletter-card {
